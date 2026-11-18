@@ -2,6 +2,9 @@
 
 Paste images from clipboard into your project as new files. Supports PNG and JPG formats with customizable file naming.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [image-paste](https://github.com/lumine-code/image-paste).
+
 ![demo](https://github.com/asiloisad-pulsar/image-paste/blob/master/assets/demo.png?raw=true)
 
 ## Features
